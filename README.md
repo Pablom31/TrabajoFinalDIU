@@ -15,7 +15,7 @@ Miembro
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX]1.a Competitive Analysis
+1.a Competitive Analysis
 -----
  Hemos elegido 5 webs sobre reserva y planificacion de viajes, cada una con distintas categorias, calificandolas sobre categorias diversas como buena navegación web, busqueda con filtros, precios finales a la vista , buena portabilidad de pc a movil e imagenes, caracteristicas pensadas para la comodidad del cliente respecto a la web y navegación. Otras características más orientadas a la empresa y su modelo de negocio como soporte técnico, politica de cancelacion, seguridad COVID (caracteristica clave en estos tiempos), beneficios cliente ejemplar y planificacion completa (característica que ayudara a organizar más aspectos del viaje como sitios que visitar, transporte, restaurantes...
  
