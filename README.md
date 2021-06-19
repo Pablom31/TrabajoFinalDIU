@@ -1,21 +1,13 @@
 # TrabajoFinalDIU
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Planificación y organización de viajes) 
+Caso de estudio YUZIN
+Curso: 2020/21 
 
-Grupo: DIU1.ToxicidadFuera.  Curso: 2020/21 
-Updated: 17/05/2021
+Proyecto: Yuzin
 
-Proyecto: ViajesP&P
 
-Descripción: Propuesta de aplicación de busqueda y reserva de alojamiento de alquiler turístico con información local de la ciudad del alojamiento, así como la posibilidad de subir un alojamiento turistico a la aplicación.
 
-Logotipo: 
-
-![Método UX](img/logo1.PNG)
-
-Miembros
- * :bust_in_silhouette:   [Pedro Padilla Reyes](https://github.com/Pedropadilla26)     :octocat:    
+Miembro
  * :bust_in_silhouette:  [Pablo Puga Martínez](https://github.com/Pablom31)     :octocat: 
-
 ----- 
 
 
