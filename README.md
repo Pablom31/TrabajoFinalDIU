@@ -10,37 +10,70 @@ Miembro
  * :bust_in_silhouette:  [Pablo Puga Martínez](https://github.com/Pablom31)     :octocat: 
 ----- 
 
+# Yuzin 
 
-# Proceso de Diseño 
 
-## Paso 1. UX Desk Research & Analisis 
+Yuzin recientemente ha realizado un rediseño de su web, pasando de ser una página para descargar su revista digital a una web de cultura con inscripción. El objetivo de la pagina cambió para adaptarse la los nuevos métodos que se tienen hoy en día de contacto y obtención de información, antes se trataba de una web que te daba su revista digital en pdf para adaptarse a una web que dispone de sus eventos y además deja la posibilidad de reserva de ellos.
 
-1.a Competitive Analysis
+Para realizar el analisis de la web dada creare a una persona ficticia que servira como ejemplo en determinadas acciones que podria realizar una persona en la web.
+
+
+1 Persona
 -----
- Hemos elegido 5 webs sobre reserva y planificacion de viajes, cada una con distintas categorias, calificandolas sobre categorias diversas como buena navegación web, busqueda con filtros, precios finales a la vista , buena portabilidad de pc a movil e imagenes, caracteristicas pensadas para la comodidad del cliente respecto a la web y navegación. Otras características más orientadas a la empresa y su modelo de negocio como soporte técnico, politica de cancelacion, seguridad COVID (caracteristica clave en estos tiempos), beneficios cliente ejemplar y planificacion completa (característica que ayudara a organizar más aspectos del viaje como sitios que visitar, transporte, restaurantes...
- 
- Con todas esas características, hemos pensado que la mejor aplicación para buscar y planificar un viaje es airbnb, cuya web seria la mas adaptada y con mayores ventajas como empresa.
- [>> Consulta el Competitive Analysis](https://github.com/Pedropadilla26/DIU21/blob/master/P1/README.md#competitive-analysis)
+Para la creación de una persona fictia he usado a Pepe Garcia, persona creada para mi trabajo de practicas, una persona apasionada, con pareja.
+![image](https://user-images.githubusercontent.com/76123381/122657590-37066480-d165-11eb-9711-d3f2e0b38a00.png)
 
-1.b Persona
------
-Hemos elegido a Pepe Garcia y a Carmén Sanchez ya que son ejemplos diferentes de viajes, Pepe García busca un viaje romantico con su pareja a París, pareja que le gusta la enseñanza y son mas emocionales y extrovertidos, y Carmén Sanchez, una mujer más realista y trabajadora que busca un viaje con su pareja y sus sobrinos.
-[>> Consulta las personas creadas aquí](https://github.com/Pedropadilla26/DIU21/blob/master/P1/README.md#persona)
-
-1.c User Journey Map
+1.a User Journey Map
 ----
-Hemos elegido estas dos experiencias porque refleja dos habituales situaciones, la de Pepe Garcia que busca viaje con su mujer como regalo, el cual se deja orientar por sus compañeros y logra de manera fácil reservar y regalarle un buen viaje, pero mirando por el dinero. Y Carmen Sanchéz, que buscando el viaje adecuado se pone nerviosa y tiene ansiedad trás la indecisión y la falta de información.
-[>> Consulta el documento de user journey map](https://github.com/Pedropadilla26/DIU21/blob/master/P1/README.md#user-journey-map)
+La siguiente imagen es el journeyMap de Pepe, que busca reservar una visita por algun monumento de Granada pero se encuentra con condiciones de fechas y tardanzas para contestar que le dificulta la reserva, pero finalmente lo soluciona.
+![image](https://user-images.githubusercontent.com/76123381/122657908-cc0a5d00-d167-11eb-8f11-a04ab0ab9ee2.png)
+
  
 
 1.d Usability Review
 ----
-Hemos hecho una revisión de usabilidad de varias páginas web, usando como página principal de la revisión AirBnB, que tiene un modelo de negocio parecido.
-[>> Consulta el documento de usabilidad aquí](https://github.com/Pedropadilla26/DIU21/blob/master/P1/README.md#usability-review) 
+[Usability.pdf](https://github.com/Pablom31/TrabajoFinalDIU/files/6681473/Usability.pdf)
 
 Valoración final: 78
 
 Nuestro comentario final sobre la valoración:  AirBnB tiene una excelente navegación, que facilita el uso por parte del usuario y tiene muchas ventajas a la hora de reservar y planificar tu propio viaje, su principal problema es la busqueda, la cual debes elegir un lugar específico, no enseñandote localizaciones de distintas ciudades con similares caracterisiticas, y un mapa dificil de entender.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 ## Paso 2. UX Design  
 
