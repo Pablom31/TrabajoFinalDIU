@@ -96,7 +96,26 @@ Como conclusión y opinión creo que deberian de eliminar varios fallos vistos, 
 
 Para el análisis de accesibilidad usare una de las herramientas vistas en clase para comprobar la accesibilidad de la página web, WAVE Evaluation Tool para evaluar los errores de la web, y Web Disability Simulator para evaluar problemas orientados a discapacidades.
 
-Para realizarlo adecuadamente el test usare el word con las tablas de la actividad 3 de accesibilidad:[Accesibilidad-Yuzin.pdf](https://github.com/Pablom31/TrabajoFinalDIU/files/6681557/Accesibilidad-Yuzin.pdf)
+Para realizarlo adecuadamente el test usare el word con las tablas de la actividad 3 de accesibilidad: 
+[Accesibilidad-Yuzin.pdf](https://github.com/Pablom31/TrabajoFinalDIU/files/6681557/Accesibilidad-Yuzin.pdf)
+
+Según el pdf anterior, podemos concluir que la web tiene grandes problemas de accesibilidad en relación a problemas con Wave evaluation, fallos de zoom que empeora la imagen, tiene varios errores de contraste y 4 errores de etiquetas, texto eliminado, boton vacio...,  además tiene texto e imagenes redundantes y detalles para el texto hablado, fallando en etiquetas para ese aspecto. 
+
+Un fallo muy importante es el no disponer de varios idiomas.
+
+Desde el punto de vista de problemas de accesibilidad para persoans con discapacidades, mi puntuación es satisfactoria en la mayoria de aspectos, desde persoans con dislxia que se le dificulta la vista y precios, pero puede seguir navegando por la web, aunque no dispone de texto hablado, o problemas de parkinson que no empeora nada ya que al tener botones grandes el acceder a ellos es sencillo. 
+
+# Conclusión
+
+Para finalizar, la web tiene bastantes fallos, tanto de accesibilidad como de usabilidad, pero la mayoria son facilmente arreglables, mientras que otros van a nivel de etiquetas que deben ser arreglados en el html principalmente.
+
+Para empezar se debe añadir un boton de cambiar idioma y un apartado de información de accesibilidad, eliminar el submenú que dificulta mucho en entender el acceso a la web.
+
+Otro aspecto a cambiar es la imagen vertical amarilla, sustituyendola por otra imagen como la anterior a esa de las 6 mujeres. 
+
+Los cambios visuales a realizar en la pagina principal serian muy simples, quedando algo parecido a esto ( eliminando submenu, y añadiendo opciones al menu 1), no ha quedado muy estético debido a que he modificado el html.
+![image](https://user-images.githubusercontent.com/76123381/122660059-404ffb00-d17e-11eb-984c-973fb78d47cb.png)
+
 
 
  
