@@ -72,7 +72,7 @@ El menú principal consta de partes que pueden llegar a confución como agenda y
 
 Pasando al buscador de eventos, el buscar por palabras no funcionaba, y además tardaba en cargar, se aplican solo los criterios de fecha, categoria y lugar, que además se ve bastante incompleto, ya que podria añadir el filtrar por precio. Además el buscador de lugar esta incompleto ya que no dispone de todas las ciudades, habiendo eventos de la web en Málaga que son muy dificiles de acceder a ellos debido a la web.
 
-Yizum dispone de un contacta que te direcciona a la lista de números dispoibles, así como de un apartado de quienes somos, que muestra más información, pero me han faltado detalles como información de accesibilidad, cambiar idioma....
+Yizum dispone de un contacta que te direcciona a la lista de números disponibles, así como de un apartado de quienes somos, que muestra más información, pero me han faltado detalles como información de accesibilidad, cambiar idioma....
 
 La web tiene un diseño responsivo, se adapta bien a resoluciones y formatos distintos, pero tarda en cargar.
 
@@ -114,7 +114,11 @@ Para empezar se debe añadir un boton de cambiar idioma y un apartado de informa
 Otro aspecto a cambiar es la imagen vertical amarilla, sustituyendola por otra imagen como la anterior a esa de las 6 mujeres. 
 
 Los cambios visuales a realizar en la pagina principal serian muy simples, quedando algo parecido a esto ( eliminando submenu, y añadiendo opciones al menu 1), no ha quedado muy estético debido a que he modificado el html.
+
 ![image](https://user-images.githubusercontent.com/76123381/122660059-404ffb00-d17e-11eb-984c-973fb78d47cb.png)
+Los otros cambios no se verian reflejados en la web modificada, pero habria que hacerlos, como el mejorar el zoom de la web, modificar las etiquetas y arreglar errores de label del html, solucionar errores con enlaces, añadir todas las ciudades disponibles en la búsqueda y arreglar el buscador por palabras.
+
+
 
 
 
