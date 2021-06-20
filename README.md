@@ -92,11 +92,12 @@ Como conclusión y opinión creo que deberian de eliminar varios fallos vistos, 
 
 
 
-1.d Análisis Accesibilidad
+# 2 Análisis Accesibilidad
 
 Para el análisis de accesibilidad usare una de las herramientas vistas en clase para comprobar la accesibilidad de la página web, WAVE Evaluation Tool para evaluar los errores de la web, y Web Disability Simulator para evaluar problemas orientados a discapacidades.
 
-Para realizarlo adecuadamente el test usare el word con las tablas de la actividad 3 de accesibilidad:
+Para realizarlo adecuadamente el test usare el word con las tablas de la actividad 3 de accesibilidad:[Accesibilidad-Yuzin.pdf](https://github.com/Pablom31/TrabajoFinalDIU/files/6681557/Accesibilidad-Yuzin.pdf)
+
 
  
  
