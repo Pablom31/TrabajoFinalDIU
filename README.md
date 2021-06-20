@@ -34,9 +34,11 @@ La siguiente imagen es el journeyMap de Pepe, que busca reservar una visita por 
 ----
 [Usability.pdf](https://github.com/Pablom31/TrabajoFinalDIU/files/6681473/Usability.pdf)
 
-Valoración final: 78
+Valoración final: 75
 
-Nuestro comentario final sobre la valoración:  AirBnB tiene una excelente navegación, que facilita el uso por parte del usuario y tiene muchas ventajas a la hora de reservar y planificar tu propio viaje, su principal problema es la busqueda, la cual debes elegir un lugar específico, no enseñandote localizaciones de distintas ciudades con similares caracterisiticas, y un mapa dificil de entender.
+Segun el test de usabilidad realizado en este punto la valoración final de Yuzin es de 70, la web es clara y sencilla, cumple con gran perte de los requisitos pedidos y con el objetivo por el que se creo, con un diseño claro y sin ninguna complicación, sin embargo un poco desfasado como a la hora de hacer reservas.
+
+
  
  
  
