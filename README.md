@@ -46,18 +46,24 @@ El menú principal consta de partes que pueden llegar a confución como agenda y
 
 Pasando al buscador de eventos, el buscar por palabras no funcionaba, y además tardaba en cargar, se aplican solo los criterios de fecha, categoria y lugar, que además se ve bastante incompleto, ya que podria añadir el filtrar por precio. Además el buscador de lugar esta incompleto ya que no dispone de todas las ciudades, habiendo eventos de la web en Málaga que son muy dificiles de acceder a ellos debido a la web.
 
+Yizum dispone de un contacta que te direcciona a la lista de números dispoibles, así como de un apartado de quienes somos, que muestra más información, pero me han faltado detalles como información de accesibilidad, cambiar idioma....
+
 La web tiene un diseño responsivo, se adapta bien a resoluciones y formatos distintos, pero tarda en cargar.
 
 Por la parte de descargas de las revistas, tiene grandes problemas ya que las unicas revistas actualizadas son las de Granada, las otras son antiguas, no actualizandose a 2021, además de que no funciona el enlace a la de Málaga.
 
 En el tema de la estética de la web, el propio landing page no deja claro el objetivo de la web, si se basa en una web de reservas de eventos o solo de revista, además de tener grandes fallos como el incorporar una imagen vertical en un scroll horizontal, rompiendo totalmente el texto que lo acompaña y dando un toque visual grande al nada más meterte en la web entonctrarte tal color amarillo sin sentido.
 
+Por ultimó hare incapíe los fallos de textos mal estructurados en sus contenedores, como el mal diseño de los menus y cambio de colores de botones que dificultan la visión al ponerse sobre ellos.
+
 ![image](https://user-images.githubusercontent.com/76123381/122659026-9b302500-d173-11eb-94a1-a5a9a533c2d1.png)
 
 
 Respecto a los colores, los principales son el amarillo y blanco, con letras negras y grises o blancas. No he logrado identificar la fuente de tipografía pero se ve toda la misma, pero usa distintos tamaños para diferenciar distintos títulos.
 
-Como conclusión y opinión creo que deberian de eliminar varios fallos vistos, como el submenú que no aporta nada al sistema, y asegurarse de no disponer de botones con enlaces fantasmas, también el eliminar la imagen vertical provocando que el texto se mueva y quede mal posicionado.
+Como conclusión y opinión creo que deberian de eliminar varios fallos vistos, como el submenú que no aporta nada al sistema, y asegurarse de no disponer de botones con enlaces fantasmas, también el eliminar la imagen vertical provocando que el texto se mueva y quede mal posicionado. Y lo mal estructurado que estan los contenedores que desestructuran toda la web.
+
+
 
 
 
